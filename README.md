@@ -5,3 +5,6 @@ Finally, I evaluated the model using accuracy, precision, recall, and F1-score. 
 
 # DataSet Link 
 https://github.com/mohitgupta-1O1/Kaggle-SMS-Spam-Collection-Dataset-/blob/master/spam.csv
+
+# Demo
+![](https://github.com/GradienNinja/From-Text-to-Trust-Building-an-SMS-Spam-Classifier/blob/main/demo.gif)
